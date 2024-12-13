@@ -3,4 +3,4 @@ CS410 - Final Project
 
 All documentation is in ipynb file!
 
-Video link will go here after recorded.
+Video link: https://mediaspace.illinois.edu/media/1_b451i1hg
